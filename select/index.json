@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "メモリーズ",
+  "base_artist": "Spitz",
+  "createdAt": "2026-04-06T03:14:01.100646Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メモリーズ",
+      "artist": "GARNET CROW",
+      "has_synced": false,
+      "path": "select/01_メモリーズ_GARNET_CROW.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メモリーズ・ラスト",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/02_メモリーズ・ラスト_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ダンス・イン・ザ・メモリーズ",
+      "artist": "Meiko Nakahara",
+      "has_synced": true,
+      "path": "select/03_ダンス・イン・ザ・メモリーズ_Meiko_Nakahara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "メモリーズ・ラスト (TV size)",
+      "artist": "黒崎真音",
+      "has_synced": false,
+      "path": "select/04_メモリーズ・ラスト_(TV_size)_黒崎真音.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンス・イン・ザ・メモリーズ",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/05_ダンス・イン・ザ・メモリーズ_中原めいこ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "メモリーズ",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/06_メモリーズ_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/07_メモリーズ_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "メモリーズ",
+      "artist": "COALAMODE.",
+      "has_synced": false,
+      "path": "select/08_メモリーズ_COALAMODE..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メモリーズ",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/09_メモリーズ_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メモリーズ・ラスト",
+      "artist": "黒崎真音",
+      "has_synced": true,
+      "path": "select/10_メモリーズ・ラスト_黒崎真音.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "メモリーズ・ラスト",
+      "artist": "Maon Kurosaki",
+      "has_synced": true,
+      "path": "select/11_メモリーズ・ラスト_Maon_Kurosaki.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ダンス‧イソ‧ザ‧メモリーズ",
+      "artist": "中原めいこ",
+      "has_synced": true,
+      "path": "select/12_ダンス‧イソ‧ザ‧メモリーズ_中原めいこ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "メモリーズ",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_メモリーズ_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "メモリーズ・カスタム",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_07_メモリーズ・カスタム_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "メモリーズ・カスタム",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_08_メモリーズ・カスタム_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "メモリーズ・カスタム",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_09_メモリーズ・カスタム_スピッツ.txt"
+    }
+  ]
+}
